@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EPiServerDB-Web.config Connection String" description="EPiServerDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|EPiServerDB_e2288603.mdf;Initial Catalog=EPiServerDB_e2288603;Connection Timeout=60;Integrated Security=True;MultipleActiveResultSets=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\VS2017Projects\\BrewinDolphinWebsite\\BrewinDolphinWebsite\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EPiServerDB']/@connectionString" />
+  </parameter>
+</parameters>

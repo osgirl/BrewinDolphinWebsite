@@ -1,0 +1,5 @@
+/.vs/BrewinDolphinWebsite/v15/Server/sqlite3/*.lock
+/BrewinDolphinWebsite/Properties/PublishProfiles
+/BrewinDolphinWebsite/Web.config
+/BrewinDolphinWebsite/Web.Debug.config
+/BrewinDolphinWebsite/Web.Release.config
